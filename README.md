@@ -1,6 +1,13 @@
-### Hi there 👋
-
-Hello, i am Sinewavv.
-I am interested in Hardware, Robotics, Programming and Hacking.
+# About me!
+Hello!
 <br>
-I have some experience in C, batch, Java and Analog circuits.
+I am Sinew. I am interested in Eletronics, Hardware, Programming and Hacking.
+<br>
+Things I do:
+<br>
+- Transistor computers.
+- I love Physics, math.
+- Java, C++ and Pascal.
+- Eletronics, Game programming, graphics programming.
+- (i love to make my own game engines).
+- i love Robotics too.
